@@ -2,7 +2,6 @@
 
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-Office%20365-green?style=for-the-badge&logo=microsoft-excel)
 ![Dashboard](https://img.shields.io/badge/Dashboard-Excel-blue?style=for-the-badge&logo=excel)
-![Data](https://img.shields.io/badge/Dados-CSV-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYgMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDMuMTdoMi4wMDFjLjU1OSAwIDEuMDAxLjQ0MiAxLjAwMSAxLjAwMXY5Ljk5OUMxNS4wMDE0IDE0LjU1OCAxNC41NTkgMTUgMTMgMTVoLTlhMSAxIDAgMCAxLTEtMVY0YTEgMSAwIDAgMSAxLTFoOTo1QTExLjAwMyAxMS4wMDMgMCAwIDEgMTIgMy4xN3oiIGZpbGw9IiNmZmYiLz48L3N2Zz4=)
 ![Windows](https://img.shields.io/badge/Sistema-Windows-blue?style=for-the-badge&logo=windows)
 
 ## 📋 Descrição do Projeto
